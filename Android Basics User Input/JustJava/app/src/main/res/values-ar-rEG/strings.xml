@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Just Java</string>
+    <string name="name">الأسم</string>
+    <string name="toppings">الاضافات</string>
+    <string name="whipped_cream">كريمه مخفوقة</string>
+    <string name="chocolate">شوكولاته</string>
+    <string name="quantity">الكميه</string>
+    <string name="order">أطلب</string>
+    <string name="addWhipped">اضافه كريمه مخفوقة</string>
+    <string name="addChoco">اضافه شيكولاته</string>
+</resources>

@@ -21,6 +21,7 @@
             android:layout_height="wrap_content"
             android:text="@string/toppings"
             android:layout_marginBottom="16dp"
+            style="@style/HeaderTextStyle"
             android:textAllCaps="true"/>
 
         <CheckBox
@@ -44,7 +45,7 @@
             android:layout_height="wrap_content"
             android:layout_marginBottom="16dp"
             android:text="@string/quantity"
-            android:textSize="16sp"
+            style="@style/HeaderTextStyle"
             android:textAllCaps="true" />
 
         <LinearLayout

@@ -7,5 +7,6 @@
     tools:context=".NumbersActivity"
     android:padding="15dp"
     android:orientation="vertical"
+    android:drawSelectorOnTop="true"
     android:id="@+id/list">
 </ListView>
